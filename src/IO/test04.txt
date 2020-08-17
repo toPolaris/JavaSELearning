@@ -1,0 +1,2 @@
+使用GBK格式编码
+encoding with GBK
